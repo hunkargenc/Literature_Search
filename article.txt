@@ -1,0 +1,191 @@
+Seizing Requirements Engineering Issues through Supervised Learning Techniques
+M. Gramajo;L. Ballejos;M. Ale
+IEEE Latin America Transactions
+Year: 2020 | Volume: 18, Issue: 07 | Journal Article | Publisher: IEEE
+Abstract
+(1373 Kb)
+
+Uncertain Requirements, Assurance and Machine Learning
+Marsha Chechik
+2019 IEEE 27th International Requirements Engineering Conference (RE)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (1)
+Abstract
+(219 Kb)
+
+Toward Requirements Specification for Machine-Learned Components
+Mona Rahimi;Jin L.C. Guo;Sahar Kokaly;Marsha Chechik
+2019 IEEE 27th International Requirements Engineering Conference Workshops (REW)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (1)
+Abstract
+(221 Kb)
+
+Let’s Hear it from RETTA: A Requirements Elicitation Tool for TrAffic Management Systems
+Mohammad Noaeen;Zahra Shakeri Hossein Abad;Behrouz Homayoun Far
+2017 IEEE 25th International Requirements Engineering Conference (RE)
+Year: 2017 | Conference Paper | Publisher: IEEE
+Cited by: Papers (5)
+Abstract
+(258 Kb)
+
+A Bird's Eye View on Requirements Engineering and Machine Learning
+Tahira Iqbal;Parisa Elahidoost;Levi Lúcio
+2018 25th Asia-Pacific Software Engineering Conference (APSEC)
+Year: 2018 | Conference Paper | Publisher: IEEE
+Cited by: Papers (2)
+Abstract
+(131 Kb)
+
+Towards Supporting Software Engineering Using Deep Learning: A Case of Software Requirements Classification
+Raul Navarro-Almanza;Reyes Juarez-Ramirez;Guillermo Licea
+2017 5th International Conference in Software Engineering Research and Innovation (CONISOFT)
+Year: 2017 | Conference Paper | Publisher: IEEE
+Cited by: Papers (5)
+Abstract
+(278 Kb)
+
+Requirements Engineering for Machine Learning: Perspectives from Data Scientists
+Andreas Vogelsang;Markus Borg
+2019 IEEE 27th International Requirements Engineering Conference Workshops (REW)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (4)
+Abstract
+(100 Kb)
+
+Weka meets TraceLab: Toward convenient classification: Machine learning for requirements engineering problems: A position paper
+Jane Huffman Hayes;Wenbin Li;Mona Rahimi
+2014 IEEE 1st International Workshop on Artificial Intelligence for Requirements Engineering (AIRE)
+Year: 2014 | Conference Paper | Publisher: IEEE
+Cited by: Papers (9)
+Abstract
+(518 Kb)
+
+Application of reinforcement learning to requirements engineering: requirements tracing
+Hakim Sultanov;Jane Huffman Hayes
+2013 21st IEEE International Requirements Engineering Conference (RE)
+Year: 2013 | Conference Paper | Publisher: IEEE
+Cited by: Papers (17)
+Abstract
+(648 Kb)
+
+Automating Requirements Traceability: Two Decades of Learning from KDD
+Alex Dekhtyar;Jane Huffman Hayes
+2018 1st International Workshop on Learning from other Disciplines for Requirements Engineering (D4RE)
+Year: 2018 | Conference Paper | Publisher: IEEE
+Abstract
+(98 Kb)
+
+Non-Functional Requirements for Machine Learning: Challenges and New Directions
+Jennifer Horkoff
+2019 IEEE 27th International Requirements Engineering Conference (RE)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (2)
+Abstract
+(164 Kb)
+
+Generate use case from the requirements written in a natural language using machine learning
+Mohamed S. Osman;Nour Zeyad Alabwaini;Tamara Baker Jaber;Thamer Alrawashdeh
+2019 IEEE Jordan International Joint Conference on Electrical Engineering and Information Technology (JEEIT)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Abstract
+(85 Kb)
+
+A Novel Software Engineering Approach Toward Using Machine Learning for Improving the Efficiency of Health Systems
+Mohammed Moreb;Tareq Abed Mohammed;Oguz Bayat
+IEEE Access
+Year: 2020 | Volume: 8 | Journal Article | Publisher: IEEE
+Cited by: Papers (1)
+Abstract
+(7590 Kb)
+
+An Empirical Evaluation of Machine Learning Algorithms for Identifying Software Requirements on Stack Overflow: Initial Results
+Arshad Ahmad;Chong Feng;Adnan Tahir;Asif Khan;Muhammad Waqas;Sadique Ahmad;Ayaz Ullah
+2019 IEEE 10th International Conference on Software Engineering and Service Science (ICSESS)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Abstract
+(1153 Kb)
+
+Online Virtual Machine Assignment Using Multi-Armed Bandit in Cloud Computing
+Farzaneh Rastegar;Mehdi Dehghan Takht Fooladi
+2019 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COMITCon)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (1)
+Abstract
+(238 Kb)
+
+Evidence-driven Requirements Engineering for Uncertainty of Machine Learning-based Systems
+Fuyuki Ishikawa;Yutaka Matsuno
+2020 IEEE 28th International Requirements Engineering Conference (RE)
+Year: 2020 | Conference Paper | Publisher: IEEE
+Abstract
+(214 Kb)
+
+Requirements Classification with Interpretable Machine Learning and Dependency Parsing
+Fabiano Dalpiaz;Davide Dell'Anna;Fatma Basak Aydemir;Sercan Çevikol
+2019 IEEE 27th International Requirements Engineering Conference (RE)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (3)
+Abstract
+(1041 Kb)
+
+Teaching Key Machine Learning Principles Using Anti-learning Datasets
+Chris Roadknight;Prapa Rattadilok;Uwe Aickelin
+2018 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)
+Year: 2018 | Conference Paper | Publisher: IEEE
+Cited by: Papers (1)
+Abstract
+(657 Kb)
+
+Logic-Based Learning in Software Engineering
+Dalal Alrajeh;Alessandra Russo;Sebastian Uchitel;Jeff Kramer
+2016 IEEE/ACM 38th International Conference on Software Engineering Companion (ICSE-C)
+Year: 2016 | Conference Paper | Publisher: IEEE
+Abstract
+(233 Kb)
+
+Investigation on the quality assurance procedure and evaluation methodology of machine learning building energy model systems
+Zhongxuan Gu;Jianghua Wang;Shuxiang Luo
+2020 International Conference on Urban Engineering and Management Science (ICUEMS)
+Year: 2020 | Conference Paper | Publisher: IEEE
+Abstract
+(188 Kb)
+
+Requirements We Live By
+Bashar Nuseibeh
+2019 IEEE 27th International Requirements Engineering Conference (RE)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Abstract
+(71 Kb)
+
+Scalable Analytics Platform for Machine Learning in Smart Production Systems
+Khaled Al-Gumaei;Arthur Müller;Jan Nicolas Weskamp;Claudio Santo Longo;Florian Pethig;Stefan Windmann
+2019 24th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Abstract
+(1442 Kb)
+
+A Machine Learning-Based Approach for Demarcating Requirements in Textual Specifications
+Sallam Abualhaija;Chetan Arora;Mehrdad Sabetzadeh;Lionel C. Briand;Eduardo Vaz
+2019 IEEE 27th International Requirements Engineering Conference (RE)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (1)
+Abstract
+(877 Kb)
+
+SReYantra: Automated Software Requirement Inter-Dependencies Elicitation, Analysis and Learning
+Gouri Deshpande
+2019 IEEE/ACM 41st International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+Year: 2019 | Conference Paper | Publisher: IEEE
+Cited by: Papers (3)
+Abstract
+(93 Kb)
+
+Goals at risk? Machine learning at support of early assessment
+Paolo Avesani;Anna Perini;Alberto Siena;Angelo Susi
+2015 IEEE 23rd International Requirements Engineering Conference (RE)
+Year: 2015 | Conference Paper | Publisher: IEEE
+Cited by: Papers (1)
+Abstract
+(435 Kb)
+
